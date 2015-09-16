@@ -1,0 +1,6 @@
+.bundle/
+*.swp
+._*
+apikey
+Gemfile.lock
+/pkg/*
